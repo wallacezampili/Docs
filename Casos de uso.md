@@ -83,3 +83,30 @@
 7. O sistema retorna ao administrador que a operação foi realizada
 8. O sistema redireciona o administrador à página de gerenciamento
 
+## CDU 8 - Registrar produtor em uma feira
+
+**Fluxo principal**
+
+1. Aos produtores o sistema disponibilizará os dados das feiras e a opção "Participar" na tela inicial
+2. O produtor deve clicar na opção "Participar"
+3. O sistema deve exibir uma tela de confirmação
+4. O produtor deve clicar em "Confirmar"
+5. O sistema atrela o produtor à feira no banco de dados
+6. O produtor é redirecionado para a página de participação
+
+## CDU 9 - Registrar itens
+
+**Fluxo principal**
+
+1. Aos produtores o sistema disponibilizará os dados das feiras em que estão participando e a opção "Registrar itens dessa semana" na página de participação
+2. O produtor deve clicar na opção "Registrar itens dessa semana"
+3. O sistema deve disponibilizar uma tabela com os dados dos itens registrados e a opção "Registrar item"
+4. O produtor deve clicar na opção "Registrar item"
+5. O sistema deverá disponibilizar um formulário de registro de itens
+6. O produtor deve preencher os campos nome e descrição
+7. O produtor deve clicar na opção "Registrar"
+8. O sistema deve atrelar o item à feira em que o produtor esta participando
+9. O sistema retorna ao produtor que a operação foi realizada
+10. O produtor deve ser redirecionado para a página de participação
+
+## CDU 10 - Comprar itens
