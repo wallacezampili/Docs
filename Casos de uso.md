@@ -70,7 +70,7 @@
 7. O sistema retorna ao administrador que a operação foi realizada
 8. O sistema redireciona o administrador à página de gerenciamento
 
-# CDU 7 - Alterar dados da feira
+## CDU 7 - Alterar dados da feira
 
 **Fluxo principal**
 
