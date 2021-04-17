@@ -50,7 +50,7 @@
 5. O sistema retorna ao administrador que a operação foi realizada
 6. O sistema redireciona o administrador à página principal
 
-#CDU 4 - Registrar feira
+## CDU 4 - Registrar feira
 
 **Fluxo principal**
 
@@ -61,7 +61,7 @@
 5. O sistema retorna ao administrador que a operação foi realizada
 6. O sistema redireciona o administrador à página principal
 
-#CDU 5 - Alterar produtor
+## CDU 5 - Alterar produtor
 
 **Fluxo principal**
 
