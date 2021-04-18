@@ -109,4 +109,18 @@
 9. O sistema retorna ao produtor que a operação foi realizada
 10. O produtor deve ser redirecionado para a página de participação
 
-## CDU 10 - Comprar itens
+## CDU 10 - Conveiniar-se a um produtor
+
+**Fluxo principal**
+
+1. O prosumidor deve clicar na opção "Conveniar-se" na tela inicial
+2. O prosumidor será redirecionado à página de compras
+3. O prosumidor deve clicar na opção "Comprar" correspondente ao item que deseja
+4. O prosumidor deve ser redirecionado para a página de pagamento
+5. O sistema deve disponibilizar um formulário com as informações da compra
+6. O prosumidor deve preencher o formulário com a quantidade de itens que deseja 
+7. Dentre as formas de compra o prosumidor escolherá "Pagar agora"
+8. O prosumidor deve preencher um formulário com os dados do cartão de crédito
+9. O prosumidor deve clicar na opção "Comprar"
+10. O sistema retorna ao prosumidor que a operação foi realizada
+11. O sistema deve diminuir a quantidade de itens disponíveis na feira no banco de dados
