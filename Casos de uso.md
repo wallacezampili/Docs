@@ -127,4 +127,4 @@
 
 # Diagrama de casos de uso
 
-![Diagrama de casos de uso](Casos de uso.png)
+![Diagrama de casos de uso](https://github.com/wallacezampili/Docs/blob/main/Casos%20de%20uso.png)
