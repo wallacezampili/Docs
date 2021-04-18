@@ -127,4 +127,4 @@
 
 # Diagrama de casos de uso
 
-![Diagrama de casos de uso](./Docs/Casos de uso.png "Casos de uso")
+![Diagrama de casos de uso](Casos de uso.png)
