@@ -125,6 +125,6 @@
 10. O sistema retorna ao prosumidor que a operação foi realizada
 11. O sistema deve diminuir a quantidade de itens disponíveis na feira no banco de dados
 
-#Diagrama de casos de uso
+# Diagrama de casos de uso
 
-![Diagrama de casos de uso](Diagrama de casos de uso.png)
+![Diagrama de casos de uso](Casos de uso.png)
